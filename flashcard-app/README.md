@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='./assets/Codepath_WEB102_Week02.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://github.com/gulziraAbudula/week2-project/blob/606ca5b5e08b9a40dcf1b6ea4add80eea45f419d/flashcard-app/src/assets/Codepath_WEB102_Week02.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
