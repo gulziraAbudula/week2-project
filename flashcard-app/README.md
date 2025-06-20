@@ -45,7 +45,7 @@ Here's a walkthrough of implemented required features:
 https://github.com/gulziraAbudula/week2-project/blob/606ca5b5e08b9a40dcf1b6ea4add80eea45f419d/flashcard-app/src/assets/Codepath_WEB102_Week02.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICECap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -57,7 +57,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
